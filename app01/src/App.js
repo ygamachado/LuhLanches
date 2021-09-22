@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          App Lanchonete
+          App Lanchonetes
         </a>
       </header>
     </div>
